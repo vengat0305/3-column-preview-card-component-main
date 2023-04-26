@@ -15,8 +15,8 @@ This is a solution to the [3-column preview card component challenge on Frontend
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL:(https://jade-chimera-1db82e.netlify.app/)
+- Live Site URL:(https://jade-chimera-1db82e.netlify.app/)
 
 ## My process
 
